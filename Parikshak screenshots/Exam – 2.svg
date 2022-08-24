@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Exam_2">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Exam_2" data-name="Exam – 2" clip-path="url(#clip-Exam_2)">
+    <g id="Group_406" data-name="Group 406" transform="translate(108 197)">
+      <text id="t" transform="translate(850 432)" fill="#fff" font-size="14" font-family="FiraSans-Regular, Fira Sans"><tspan x="0" y="0">t</tspan></text>
+      <rect id="Rectangle_734" data-name="Rectangle 734" width="534" height="132" rx="10" transform="translate(585 361)" fill="rgba(61,66,81,0.85)"/>
+      <text id="Thank_you_for_contacting_us._We_will_reach_you_soon." data-name="Thank you for contacting us. We will reach you soon." transform="translate(619 434)" fill="#fff" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Thank you for contacting us. We will reach you soon.</tspan></text>
+    </g>
+  </g>
+</svg>

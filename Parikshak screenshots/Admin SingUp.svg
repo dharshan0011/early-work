@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Admin_SingUp">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Admin_SingUp" data-name="Admin SingUp" clip-path="url(#clip-Admin_SingUp)">
+    <rect id="Rectangle_715" data-name="Rectangle 715" width="627" height="573" rx="10" transform="translate(647 254)" fill="rgba(61,66,81,0.85)"/>
+    <g id="Group_343" data-name="Group 343" transform="translate(15 26)">
+      <g id="Group_341" data-name="Group 341" transform="translate(672 704.601)">
+        <rect id="Rectangle_1" data-name="Rectangle 1" width="115.553" height="35.928" rx="3" fill="#f57f25"/>
+        <text id="SIGN_UP" data-name="SIGN UP" transform="translate(30.102 22.681)" fill="#fff" font-size="13" font-family="FiraSans-Regular, Fira Sans"><tspan x="0" y="0">SIGN UP</tspan></text>
+      </g>
+      <g id="Group_338" data-name="Group 338" transform="translate(672 385.378)">
+        <rect id="Rectangle_599" data-name="Rectangle 599" width="349.571" height="48.551" rx="10" transform="translate(0 23.305)" fill="#fff"/>
+        <text id="error_mail.com" data-name="error@mail.com" transform="translate(19.421 51.812)" fill="#3d4251" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">error@mail.com</tspan></text>
+        <text id="E-mail" transform="translate(0 12)" fill="#fff" font-size="13" font-family="FiraSans-Bold, Fira Sans" font-weight="700"><tspan x="0" y="0">E-mail</tspan></text>
+        <g id="Group_353" data-name="Group 353" transform="translate(314.614 39.812)">
+          <rect id="Rectangle_460" data-name="Rectangle 460" width="15.536" height="15.536" fill="none"/>
+          <path id="Checkbox" d="M6.161,10.715,0,4.554,1.25,3.3,6.161,8.125,14.286,0l1.25,1.25Z" transform="translate(0 1.942)" fill="#01c5c4"/>
+        </g>
+      </g>
+      <g id="Group_342" data-name="Group 342" transform="translate(672 579.338)">
+        <g id="Group_340" data-name="Group 340">
+          <g id="Password">
+            <rect id="Rectangle_600" data-name="Rectangle 600" width="349.571" height="48.551" rx="10" transform="translate(0 23.305)" fill="#fff"/>
+            <text id="_" data-name="●●●●●●●●●●" transform="translate(19.421 51.87)" fill="#3d4251" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">●●●●●●●●●●</tspan></text>
+            <text id="Confirm_Password" data-name="Confirm Password" transform="translate(0 12)" fill="#fff" font-size="13" font-family="FiraSans-Bold, Fira Sans" font-weight="700"><tspan x="0" y="0">Confirm Password</tspan></text>
+            <path id="Union_3" data-name="Union 3" d="M7.553,8.926l-6.18,6.18L0,13.732,6.179,7.553,0,1.373,1.373,0l6.18,6.179L13.732,0l1.374,1.373-6.18,6.18,6.18,6.179-1.374,1.374Z" transform="translate(314.614 39.812)" fill="#f57f25"/>
+          </g>
+          <path id="Union_25" data-name="Union 25" d="M15.635,48.551a10,10,0,0,1-10-10V29.7L0,24.509l5.635-5.194V10a10,10,0,0,1,10-10H188.428a10,10,0,0,1,10,10V38.552a10,10,0,0,1-10,10Z" transform="translate(349.572 23.305)" fill="#f57f25"/>
+          <text id="Sorry_password_didn_t_match" data-name="Sorry, password didn&apos;t match" transform="translate(362.194 51.812)" fill="#fff" font-size="13" font-family="FiraSans-Regular, Fira Sans"><tspan x="0" y="0">Sorry, password didn&apos;t match</tspan></text>
+        </g>
+        <text id="Already_have_an_account_" data-name="Already have an account ?" transform="translate(0 97.662)" fill="#fff" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Already have an account ?</tspan></text>
+      </g>
+      <g id="Name" transform="translate(672 289)">
+        <g id="Rectangle_598" data-name="Rectangle 598" transform="translate(0 23.305)" fill="#fff" stroke="#4cb2be" stroke-width="2">
+          <rect width="349.571" height="48.551" rx="10" stroke="none"/>
+          <rect x="1" y="1" width="347.571" height="46.551" rx="9" fill="none"/>
+        </g>
+        <text id="John_Doe" data-name="John Doe" transform="translate(19.421 51.812)" fill="#3d4251" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">John Doe</tspan></text>
+        <text id="Name-2" data-name="Name" transform="translate(0 12)" fill="#fff" font-size="13" font-family="FiraSans-Bold, Fira Sans" font-weight="700"><tspan x="0" y="0">Name</tspan></text>
+      </g>
+      <g id="Group_339" data-name="Group 339" transform="translate(672 482.73)">
+        <g id="Password-2" data-name="Password">
+          <rect id="Rectangle_600-2" data-name="Rectangle 600" width="349.571" height="48.551" rx="10" transform="translate(0 23.305)" fill="#fff"/>
+          <text id="_2" data-name="●●●●●●●" transform="translate(19.421 51.87)" fill="#3d4251" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">●●●●●●●</tspan></text>
+          <text id="Password-3" data-name="Password" transform="translate(0 12)" fill="#fff" font-size="13" font-family="FiraSans-Bold, Fira Sans" font-weight="700"><tspan x="0" y="0">Password</tspan></text>
+        </g>
+        <g id="Group_354" data-name="Group 354" transform="translate(314.614 38.841)">
+          <rect id="Rectangle_460-2" data-name="Rectangle 460" width="15.536" height="15.536" fill="none"/>
+          <path id="Checkbox-2" data-name="Checkbox" d="M6.161,10.715,0,4.554,1.25,3.3,6.161,8.125,14.286,0l1.25,1.25Z" transform="translate(0 1.942)" fill="#01c5c4"/>
+        </g>
+      </g>
+    </g>
+    <text id="Login" transform="translate(846 703)" fill="#fff" font-size="14" font-family="ArialMT, Arial" text-decoration="underline"><tspan x="0" y="0">Login</tspan></text>
+    <g id="Group_1635" data-name="Group 1635" transform="translate(-1 1)">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="25.143" height="2.514" transform="translate(1237.778 272) rotate(45)" fill="#fff"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="25.143" height="2.514" transform="translate(1236 289.778) rotate(-45)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

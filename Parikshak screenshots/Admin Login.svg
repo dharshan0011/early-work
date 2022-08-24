@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Admin_Login_">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Admin_Login_" data-name="Admin Login " clip-path="url(#clip-Admin_Login_)">
+    <rect id="Rectangle_715" data-name="Rectangle 715" width="627" height="400" rx="10" transform="translate(647 340)" fill="rgba(61,66,81,0.85)"/>
+    <g id="Password" transform="translate(467 81)">
+      <rect id="Rectangle_600" data-name="Rectangle 600" width="360" height="50" rx="10" transform="translate(220 450)" fill="#fff"/>
+      <text id="_" data-name="●●●●●●●" transform="translate(240 480)" fill="#3d4251" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">●●●●●●●</tspan></text>
+      <text id="Password-2" data-name="Password" transform="translate(220 439)" fill="#fff" font-size="14" font-family="FiraSans-Bold, Fira Sans" font-weight="700"><tspan x="0" y="0">Password</tspan></text>
+      <path id="Union_3" data-name="Union 3" d="M7.778,9.192,1.414,15.557,0,14.142,6.364,7.778,0,1.414,1.414,0,7.778,6.364,14.142,0l1.415,1.414L9.192,7.778l6.364,6.364-1.415,1.415Z" transform="translate(544 467)" fill="#f57f25"/>
+    </g>
+    <g id="Group_344" data-name="Group 344" transform="translate(15 48)">
+      <g id="Group_336" data-name="Group 336" transform="translate(-874 580)">
+        <rect id="Rectangle_1" data-name="Rectangle 1" width="119" height="37" rx="3" transform="translate(1546 21)" fill="#f57f25"/>
+        <text id="LOGIN" transform="translate(1583 44)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">LOGIN</tspan></text>
+      </g>
+      <g id="Group_327" data-name="Group 327" transform="translate(452 41)">
+        <g id="Email">
+          <g id="Rectangle_599" data-name="Rectangle 599" transform="translate(220 330)" fill="#fff" stroke="#4cb2be" stroke-width="2">
+            <rect width="360" height="50" rx="10" stroke="none"/>
+            <rect x="1" y="1" width="358" height="48" rx="9" fill="none"/>
+          </g>
+          <text id="error_mail.com" data-name="error@mail.com" transform="translate(240 360)" fill="#3d4251" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">error@mail.com</tspan></text>
+          <text id="E-mail" transform="translate(220 319)" fill="#fff" font-size="14" font-family="FiraSans-Bold, Fira Sans" font-weight="700"><tspan x="0" y="0">E-mail</tspan></text>
+          <g id="Group_352" data-name="Group 352" transform="translate(544 347)">
+            <rect id="Rectangle_460" data-name="Rectangle 460" width="16" height="16" transform="translate(0)" fill="none"/>
+            <path id="Checkbox" d="M6.345,11.034,0,4.69,1.287,3.4,6.345,8.368,14.713,0,16,1.287Z" transform="translate(0 2)" fill="#01c5c4"/>
+          </g>
+        </g>
+      </g>
+      <g id="Notification" transform="translate(437 33)">
+        <path id="Union_25" data-name="Union 25" d="M2483.349,3946a10,10,0,0,1-10-10v-9.411L2468,3921.24l5.349-5.348V3906a10,10,0,0,1,10-10h163a10,10,0,0,1,10,10v30a10,10,0,0,1-10,10Z" transform="translate(-1873.35 -3446)" fill="#f57f25"/>
+        <text id="Sorry_wrong_password" data-name="Sorry, wrong password" transform="translate(620 480)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Sorry, wrong password</tspan></text>
+      </g>
+    </g>
+    <text id="Don_t_have_an_account_" data-name="Don&apos;t have an account ?" transform="translate(687 608)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Don&apos;t have an account ?</tspan></text>
+    <text id="Signup" transform="translate(842 608)" fill="#fff" font-size="14" font-family="ArialMT, Arial" text-decoration="underline"><tspan x="0" y="0">Signup</tspan></text>
+    <g id="Group_1635" data-name="Group 1635" transform="translate(-1 87)">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="25.143" height="2.514" transform="translate(1237.778 272) rotate(45)" fill="#fff"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="25.143" height="2.514" transform="translate(1236 289.778) rotate(-45)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
